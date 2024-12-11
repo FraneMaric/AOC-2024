@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maric\\OneDrive\\Desktop\\AOC\\Day2\\Day2\\Day2.csproj": {}
+    "c:\\Users\\maric\\OneDrive\\Desktop\\AOC\\AOC-2024\\Day2\\Day2\\Day2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maric\\OneDrive\\Desktop\\AOC\\Day2\\Day2\\Day2.csproj": {
+    "c:\\Users\\maric\\OneDrive\\Desktop\\AOC\\AOC-2024\\Day2\\Day2\\Day2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maric\\OneDrive\\Desktop\\AOC\\Day2\\Day2\\Day2.csproj",
+        "projectUniqueName": "c:\\Users\\maric\\OneDrive\\Desktop\\AOC\\AOC-2024\\Day2\\Day2\\Day2.csproj",
         "projectName": "Day2",
-        "projectPath": "C:\\Users\\maric\\OneDrive\\Desktop\\AOC\\Day2\\Day2\\Day2.csproj",
+        "projectPath": "c:\\Users\\maric\\OneDrive\\Desktop\\AOC\\AOC-2024\\Day2\\Day2\\Day2.csproj",
         "packagesPath": "C:\\Users\\maric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maric\\OneDrive\\Desktop\\AOC\\Day2\\Day2\\obj\\",
+        "outputPath": "c:\\Users\\maric\\OneDrive\\Desktop\\AOC\\AOC-2024\\Day2\\Day2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maric\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "System.IO": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
