@@ -1,0 +1,14 @@
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\bin\Debug\net8.0\Day2.exe
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\bin\Debug\net8.0\Day2.deps.json
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\bin\Debug\net8.0\Day2.runtimeconfig.json
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\bin\Debug\net8.0\Day2.dll
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\bin\Debug\net8.0\Day2.pdb
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\obj\Debug\net8.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\obj\Debug\net8.0\Day2.AssemblyInfoInputs.cache
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\obj\Debug\net8.0\Day2.AssemblyInfo.cs
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\obj\Debug\net8.0\Day2.csproj.CoreCompileInputs.cache
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\obj\Debug\net8.0\Day2.dll
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\obj\Debug\net8.0\refint\Day2.dll
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\obj\Debug\net8.0\Day2.pdb
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\obj\Debug\net8.0\Day2.genruntimeconfig.cache
+c:\Users\maric\OneDrive\Desktop\AOC\Day2\Day2\obj\Debug\net8.0\ref\Day2.dll
