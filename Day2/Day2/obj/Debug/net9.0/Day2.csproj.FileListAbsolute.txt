@@ -1,0 +1,15 @@
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\bin\Debug\net9.0\Day2.exe
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\bin\Debug\net9.0\Day2.deps.json
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\bin\Debug\net9.0\Day2.runtimeconfig.json
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\bin\Debug\net9.0\Day2.dll
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\bin\Debug\net9.0\Day2.pdb
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\obj\Debug\net9.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\obj\Debug\net9.0\Day2.AssemblyInfoInputs.cache
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\obj\Debug\net9.0\Day2.AssemblyInfo.cs
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\obj\Debug\net9.0\Day2.csproj.CoreCompileInputs.cache
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\obj\Debug\net9.0\Day2.sourcelink.json
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\obj\Debug\net9.0\Day2.dll
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\obj\Debug\net9.0\refint\Day2.dll
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\obj\Debug\net9.0\Day2.pdb
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\obj\Debug\net9.0\Day2.genruntimeconfig.cache
+d:\Programs\AOC-2024\AOC-2024\Day2\Day2\obj\Debug\net9.0\ref\Day2.dll

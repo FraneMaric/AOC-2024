@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\maric\\OneDrive\\Desktop\\AOC\\AOC-2024\\Day2\\Day2\\Day2.csproj": {}
+    "D:\\Programs\\AOC-2024\\AOC-2024\\Day2\\Day2\\Day2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\maric\\OneDrive\\Desktop\\AOC\\AOC-2024\\Day2\\Day2\\Day2.csproj": {
+    "D:\\Programs\\AOC-2024\\AOC-2024\\Day2\\Day2\\Day2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\maric\\OneDrive\\Desktop\\AOC\\AOC-2024\\Day2\\Day2\\Day2.csproj",
+        "projectUniqueName": "D:\\Programs\\AOC-2024\\AOC-2024\\Day2\\Day2\\Day2.csproj",
         "projectName": "Day2",
-        "projectPath": "c:\\Users\\maric\\OneDrive\\Desktop\\AOC\\AOC-2024\\Day2\\Day2\\Day2.csproj",
+        "projectPath": "D:\\Programs\\AOC-2024\\AOC-2024\\Day2\\Day2\\Day2.csproj",
         "packagesPath": "C:\\Users\\maric\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\maric\\OneDrive\\Desktop\\AOC\\AOC-2024\\Day2\\Day2\\obj\\",
+        "outputPath": "D:\\Programs\\AOC-2024\\AOC-2024\\Day2\\Day2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maric\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\maric\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -39,11 +37,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "System.IO": {
               "target": "Package",
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
